@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- 空隙 -->
+     <dimen name="key_horizontalGap">0px</dimen>
+    <dimen name="key_verticalGap">-2px</dimen>
+    <dimen name="key_height">59dip</dimen>
+    <dimen name="key_width_key">107dip</dimen>
+
+    <dimen name="key_width_button_template">325dip</dimen>
+    <dimen name="key_height_qwert">40dip</dimen>
+    
+    <!-- 候选框 -->
+    <dimen name="candidate_font_height">35sp</dimen>
+    <dimen name="candidate_vertical_padding">8sp</dimen>
+    <dimen name="candidate_hight">43dip</dimen>
+    <dimen name="candidate_width">900dip</dimen>  
+    <dimen name="candidate_font_size_sys">35dip</dimen>
+    <dimen name="candidate_font_size_ch">22dip</dimen>
+    <dimen name="candidate_font_size_en">16dip</dimen>
+    <dimen name="candidate_beg_pos_y">22dip</dimen>
+    <dimen name="candidate_beg_pos_en_y">38dip</dimen>
+    <dimen name="candidate_txt_gap">10dip</dimen>
+    
+    <!-- 候选框 -->
+    <dimen name="zoom_in_beg_x">40dip</dimen>
+    <dimen name="zoom_in_beg_y">150dip</dimen>
+    <dimen name="zoom_in_r_x">100dip</dimen>
+    <dimen name="zoom_in_r_y">100dip</dimen>   
+    
+    <dimen name="key_height_button">62dip</dimen>
+    <dimen name="key_width_button">110dip</dimen>
+    
+    <dimen name="button_x_0">0px</dimen>
+    <dimen name="button_x_1">106px</dimen>
+    <dimen name="button_x_2">212px</dimen>
+    
+    <dimen name="button_y_0">0px</dimen>
+    <dimen name="button_y_1">56px</dimen>
+    <dimen name="button_y_2">112px</dimen>      
+    <dimen name="button_y_3">170px</dimen>
+    <!-- buttons scroll setting -->
+	<dimen name="distance_func_scroll_long_x">80dip</dimen>
+	<dimen name="distance_scroll_long_x">100dip</dimen>
+	<!-- 效果 -->
+			<!-- effect_view到可视区域顶端的距离 -->
+	<dimen name="distanceY_effect_view_to_viewport_top">196dip</dimen>
+			<!-- effect_view Y坐标平移 -->
+	<dimen name="translateY_effect_view_on_draw">0dip</dimen>
+	<dimen name="eff_double_buf_width">320dip</dimen>
+	<dimen name="eff_double_buf_height">550dip</dimen>
+	<dimen name="eff_def_font_size">22dip</dimen>
+	<dimen name="eff_def_highlight_font_size">27dip</dimen>
+	<dimen name="eff_popup_win_height">480dip</dimen>
+	<dimen name="eff_accurate_sel_high">30dip</dimen>
+		<!-- 弧形菜单配置   非高亮字体大小-->
+    <dimen name="eff_sector_offlight_font_size">18dip</dimen>
+		<!-- 弧形菜单配置   高亮字体大小-->
+    <dimen name="eff_sector_highlight_font_size">22dip</dimen>
+    	<!-- 弧形菜单配置   全局水平偏移-->
+	<dimen name="eff_sector_global_translate_x">-40dip</dimen>
+		<!-- 弧形菜单配置   内径-->
+	<dimen name="eff_sector_r_in">70dip</dimen>
+		<!-- 弧形菜单配置   直径-->
+	<dimen name="eff_sector_r">160dip</dimen>
+		<!-- 弧形菜单配置  高亮外扩展-->
+	<dimen name="eff_sector_highlight_expand">120dip</dimen>
+	<dimen name="eff_sector_bg_offset_x">-16dip</dimen>
+	<dimen name="eff_sector_bg_text_x">-20dip</dimen>
+	<dimen name="eff_sector_highlight_offset_x">-6dip</dimen>
+		<!-- 选择盘 -->
+	<dimen name="eff_accurate_sel_draw_ori_offset_y">150dip</dimen>
+	<dimen name="eff_accurate_sel_text_offset">38dip</dimen>
+		<!-- 选择盘  中心默认区域半径 -->
+	<dimen name="eff_accurate_sel_center_r">20dip</dimen>
+		<!-- 用户区域外扩展 -->
+	<dimen name="eff_accurate_sel_touch_expand">100dip</dimen>
+		<!-- 全键盘hite -->
+	<dimen name="eff_hite_draw_ori_offset_y">80dip</dimen>
+	<dimen name="eff_hite_view_zone_height">180dip</dimen>
+	
+	<dimen name="keyboard_height">258dip</dimen>
+	<!-- 上菜单 -->
+	<dimen name="topmenu_paddingTop">3dip</dimen>
+	<dimen name="logo_width">54dip</dimen>
+	<dimen name="logo_paddingLeft">0dip</dimen>
+	<dimen name="logo_paddingRight">0dip</dimen>
+	<dimen name="topmenu_height">38dip</dimen>
+	<dimen name="topmenu_width">70dip</dimen>
+	<dimen name="topmenu_keyboard_switch_paddingLeft">16dip</dimen>
+	<dimen name="topmenu_font_size">16dip</dimen>
+	
+	<!-- 左菜单 -->
+	<dimen name="ITU_leftmenu_width">53dip</dimen>
+	<dimen name="ITU_leftmenu_height">35dip</dimen>
+	<dimen name="ITU_leftmenu_paddingRight">1dip</dimen>
+	
+	<dimen name="ITU_keyboard_height">210dip</dimen>
+	<!-- ITU键盘 -->
+		<!-- ITU键盘字体 -->
+	<dimen name="itu_keyboard_font_size">15dip</dimen>
+	<dimen name="ITU_keyboard_width">207dip</dimen>
+	<dimen name="ITU_key_width">69dip</dimen>
+	<dimen name="ITU_key_height">52dip</dimen>
+	<dimen name="ITU_key_paddingTop">1dip</dimen>
+	<dimen name="ITU_key_paddingLeft">1dip</dimen>
+	
+	<!-- ITU右菜单 -->
+	<dimen name="ITU_right_key_width">55dip</dimen>
+
+	<!-- 全键盘 -->
+    <dimen name="qwerty_keyboard_width">320dip</dimen>
+    <dimen name="qwerty_common_key_height">52dip</dimen>
+    <dimen name="qwerty_common_key_width">32dip</dimen>
+    <dimen name="qwerty_func_key_width">48dip</dimen>
+    <dimen name="qwerty_space_key_width">64dip</dimen>
+    <dimen name="qwerty_paddingLeft">16dip</dimen>
+    <dimen name="qwerty_paddingRight">16dip</dimen>
+</resources>

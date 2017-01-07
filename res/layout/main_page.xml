@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"   
+ 	android:layout_width="wrap_content"               
+	android:layout_height="wrap_content"    
+	android:cacheColorHint = "#191919"         
+	android:orientation="vertical"
+    >  
+	
+    
+    <LinearLayout
+        android:orientation="horizontal"
+         android:layout_width="wrap_content"               
+		android:layout_height="wrap_content"    
+		>
+			<Button android:id="@+id/button_cand_1"            
+				android:layout_centerInParent="true"     
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"   
+				android:text="1" 
+				android:isRepeatable="true"
+				/> 
+			 
+			<Button android:id="@+id/button_cand_2"            
+				android:layout_centerInParent="true"   	 
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"       
+				android:text="2" 
+				android:isRepeatable="true"
+				/>
+			
+			<Button android:id="@+id/button_cand_3"            
+				android:layout_centerInParent="true"   	     
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"      
+				android:text="3" 
+				android:isRepeatable="true"
+				/>
+
+	</LinearLayout>
+	
+    <LinearLayout
+        android:orientation="horizontal"
+         android:layout_width="wrap_content"               
+		android:layout_height="wrap_content"   
+        >
+			<Button android:id="@+id/button_cand_4"            
+				android:layout_centerInParent="true"     
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"       
+				android:text="4" 
+				/> 
+			<Button android:id="@+id/button_cand_5"            
+				android:layout_centerInParent="true"   	
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"           
+				android:text="5" 
+				/>
+			<Button android:id="@+id/button_cand_6"            
+				android:layout_centerInParent="true"   
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"   	        
+				android:text="6" 
+				/>
+	</LinearLayout>	
+
+    <LinearLayout
+        android:orientation="horizontal"
+         android:layout_width="wrap_content"               
+		android:layout_height="wrap_content"   
+        >
+			<Button android:id="@+id/button_cand_7"            
+				android:layout_centerInParent="true"   
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"         
+				android:text="7" 
+				/> 
+			<Button android:id="@+id/button_cand_8"            
+				android:layout_centerInParent="true"   
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"   	        
+				android:text="8" 
+				/>
+			<Button android:id="@+id/button_cand_9"            
+				android:layout_centerInParent="true"   
+				android:layout_width="@dimen/key_width_button"            
+				android:layout_height="@dimen/key_height_button"   	        
+				android:text="9" 
+				/>
+	</LinearLayout>		
+	
+
+</LinearLayout>
+

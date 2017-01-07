@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 候选框 -->
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_background">#bbffffff</color>
+    
+    <color name="candidate_page">#FFFFFFFF</color>
+    <color name="candidate_page_bg">#60A0A080</color>    
+    <color name="candidate_text_ch">#FFFFFFFF</color>
+    <color name="candidate_text_ch_hl">#FF04c9ff</color>         
+    <color name="candidate_text_en">#FFFFFFFF</color>   
+    <color name="candidate_text_en_hl">#FF04c9ff</color>  
+    <color name="candidate_CandBG">#FF191919</color>  
+    
+    <!--  放大镜 -->
+    <color name="zoom_in_candidate_text_ch">#FFFFFFFF</color>
+    <color name="zoom_in_candidate_text_ch_hl">#FF2AB3F9</color> 
+     
+    <!-- 效果 -->
+    <color name="eff_def_font_color">#FFFFFFFF</color>
+    <color name="eff_def_highlight_font_color">#FF000000</color>
+    <color name="eff_def_offlight_font_color">#FF9d9d9d</color>
+    <color name="eff_sector_font_color">#FF000000</color>
+    <color name="eff_sector_offlight_font_color">#FF000000</color>
+    
+    <!-- 背景颜色 -->
+    <color name="background">#9ba</color>
+</resources>
